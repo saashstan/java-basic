@@ -1,4 +1,4 @@
-public class App {
+public class MinhaClasse {
     public static void main(String[] args) {
         String primeiroNome = "Alex";
         String segundoNome = "Souza";
