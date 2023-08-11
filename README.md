@@ -1,2 +1,3 @@
 # java-basic
-Projetos feitos com a linguagem Java.
+
+Repositório onde registro o meu aprendizado em java.
