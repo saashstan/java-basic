@@ -1,7 +1,7 @@
 public class MinhaClasse {
     public static void main(String[] args) {
         String primeiroNome = "Alex";
-        String segundoNome = "Souza";
+        String segundoNome = "Mendonça";
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
         System.out.println(nomeCompleto);
