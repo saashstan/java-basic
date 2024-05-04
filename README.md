@@ -1,9 +1,9 @@
 # Java, o bixo papão de muitos
 
 Ao decorrer deste repositório será registrado algumas dicas, anotações e códigos referente a linguagem Java.
-```
-JDE: Visual Studio Code
-```
+
+> JDE: Visual Studio Code
+
 ### Java Beans
 
 * Uma variável é clara, sem abreviação ou fora de sentido, ou seja, se caso haja necessidade de abreviação que seja de modo claro e direto para uma melhor visualização de imediato, exemplo: anoProducao;
