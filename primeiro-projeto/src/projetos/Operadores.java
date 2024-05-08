@@ -1,12 +1,8 @@
 public class Operadores {
     public static void main(String[] args) {
-        String primeiroNome = "Alex";
-        String segundoNome = "Mendonça";
+        int numero = 5;
 
-        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
-        System.out.println(nomeCompleto);
-    }
-    public static String nomeCompleto (String primeiroNome, String segundoNome){
-        return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
+        numero ++;
+        System.out.println(numero);
     }
 }

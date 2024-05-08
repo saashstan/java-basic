@@ -23,19 +23,24 @@ Aprofundamento sobre os tipos númericos:
 
 * Realizar determinadas operações com finalidade de determinado resultado;
 
-### Operadores de Atribuição
+#### Operadores de Atribuição
 
 * Representado pelo símbolo de igualdade (=).
 
 É usado para definir o valor inicial o sobrescrever o valor de uma variável.
 
-### Operadors Binários
+#### Operadors Binários
 
 * Sendo eles: (+), (-), (++), (--), (!).
 
 Eles realizam coisas básicas como incrimentar, decrementar, inverter valores númericos e booleanos.
 
-
+Por exemplo: 
+```
+int numero = 5;
+numero ++;
+```
+            
 
 ## Fontes utilizadas
 * [Sintexe básica de formatação - GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
