@@ -4,7 +4,7 @@ Ao decorrer deste repositório será registrado algumas dicas, anotações e có
 
 > JDE: Visual Studio Code
 
-### Java Beans
+## Java Beans
 
 * Uma variável é clara, sem abreviação ou fora de sentido, ou seja, se caso haja necessidade de abreviação que seja de modo claro e direto para uma melhor visualização de imediato, exemplo: anoProducao;
 * Tomar cuidados com métodos em português, por conta de que está se baseando em inglês;
@@ -18,6 +18,22 @@ Aprofundamento sobre os tipos númericos:
 * Caso não seja informado o seu valor, será considerado o valor padrão como "zero", exemplo: ```int idade;```
 
 * Caso usar o tipo **float** usar o "F" ao final, ficando como: ```float pi = 3.14F```. Assim como o lipo **long**;
+
+## Operadores
+
+* Realizar determinadas operações com finalidade de determinado resultado;
+
+### Operadores de Atribuição
+
+* Representado pelo símbolo de igualdade (=).
+
+É usado para definir o valor inicial o sobrescrever o valor de uma variável.
+
+### Operadors Binários
+
+* Sendo eles: (+), (-), (++), (--), (!).
+
+Eles realizam coisas básicas como incrimentar, decrementar, inverter valores númericos e booleanos.
 
 
 
