@@ -1,9 +1,12 @@
 public class Operadores {
     public static void main(String[] args) {
-        int numero = 5;
+        String primeiroNome = "Alex";
+        String segundoNome = "Mendonça";
 
-        numero = numero + 1;
-
-        System.out.println(numero);
+        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
+        System.out.println(nomeCompleto);
+    }
+    public static String nomeCompleto (String primeiroNome, String segundoNome){
+        return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
     }
 }
