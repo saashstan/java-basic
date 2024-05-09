@@ -1,6 +1,6 @@
 # Java, o bixo papão de muitos
 
-<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/SBvowbUwAmenC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maudit-my-neighbor-totoro-SBvowbUwAmenC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/SBvowbUwAmenC" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maudit-my-neighbor-totoro-SBvowbUwAmenC">via GIPHY</a></p>
 
 Ao decorrer deste repositório será registrado alguns códigos que foram desenvolvidos durente o Bootcamp da DIO - BackEnd em Java, anotações e códigos referente a linguagem.
 
